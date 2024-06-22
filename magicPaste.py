@@ -46,5 +46,5 @@ button_process.grid(row=1, columnspan=2, padx=10, pady=10)
 status_label = tk.Label(window, text="")
 status_label.grid(row=2, columnspan=2, padx=10, pady=10)
 
-# Run the tkinter main loop
+# Run the tkinter main loop.
 window.mainloop()
